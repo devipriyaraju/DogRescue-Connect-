@@ -1,0 +1,9 @@
+{
+  "name": "DogRescue Connect",
+  "description": "An MVP platform connecting citizens finding injured dogs with nearby vets and rescuers. Features AI-assisted reporting and geolocation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
